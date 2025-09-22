@@ -7,10 +7,16 @@ ___
 
 ## Contents
 
-+ [Project Overview](#Project-Overview) | + [Data Source](#Data-Source) | + [Tools Used](#Tools-Used) | + [Table Outlay](#Table-Outlay) | + [Query Language](#Query-Language) | + [VIsualisation](#VIsualisation)
++ [Project Overview](#Project-Overview) |+ [Data Source](#Data-Source) |+ [Tools Used](#Tools-Used) |+ [Table Outlay](#Table-Outlay) |+ [Query Language](#Query-Language) |+ [VIsualisation](#VIsualisation)
 
 ---
 ## Project Overview
+
+>> This project analyzes an HR dataset containing employee information such as age, gender, department, grade, salary, tenure, hire date, and location. The aim was to perform end-to-end data analysis using:
++ Excel → Data cleaning and preprocessing.
++ SQL → Querying and extracting workforce insights.
++ Power BI → Interactive dashboards and visualization.
++ This project showcases how HR data can be transformed into actionable insights to support decision-making in areas like employee retention, compensation, and workforce planning.
 
 --- 
 ## Data Source
