@@ -55,7 +55,7 @@ ORDER BY Tenure DESC;
 
 ```
 
-```
+```SQL
 ---Retrieve Employee distribution by department---
 SELECT Department, 
 COUNT(*) AS Totalemployees
@@ -63,13 +63,35 @@ FROM Company_Dataset
 GROUP BY Department
 ORDER BY Totalemployees DESC;
 
+```
+
+```SQL
 ---Retrieve the total employee in the company---
 SELECT COUNT(*)AS TotalEmployees
 FROM Company_Dataset;
 
+```
+
+```SQL
 ---Retrieve total employee in different location---
 SELECT Location, 
 COUNT(*) AS Totalemployees
 FROM Company_Dataset
 GROUP BY Location
 ORDER BY Totalemployees DESC;
+
+```
+
+## Visualisation
+### Pivot Tables
+
+<img width="1150" height="397" alt="Company Data Pivot table" src="https://github.com/user-attachments/assets/14333d11-524f-4c55-b187-b285b095f685" />
+
+### Dashboard
+
+<img width="1204" height="436" alt="Company Dashboard" src="https://github.com/user-attachments/assets/fd2fd92b-d2ff-40b8-9ffd-48f7ac7c3b11" />
+
+### Link to Charts
+[Link to Chart]
+
+[View my Linkedin](https://www.linkedin.com/in/ofochecynthia)
