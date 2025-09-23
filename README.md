@@ -93,6 +93,10 @@ ORDER BY Totalemployees DESC;
 
 <img width="1150" height="397" alt="Company Data Pivot table" src="https://github.com/user-attachments/assets/14333d11-524f-4c55-b187-b285b095f685" />
 
+### PowerBi Dashboard
+
+<img width="851" height="503" alt="Company Data Powerbi" src="https://github.com/user-attachments/assets/5bf11c4b-f762-420f-904a-e181d96b3298" />
+
 ### Dashboard
 
 <img width="1204" height="436" alt="Company Dashboard" src="https://github.com/user-attachments/assets/fd2fd92b-d2ff-40b8-9ffd-48f7ac7c3b11" />
